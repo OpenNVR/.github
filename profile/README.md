@@ -2,7 +2,7 @@
 Why not turn your old NVR into somthing useful again!
 
 ### Getting Started
-Installation instructions are avaliable [here](installer#install-guide)
+Installation instructions are avaliable [here](../installer#install-guide)
 
 ### Demos
 None yet :(. Sry!
